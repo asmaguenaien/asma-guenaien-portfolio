@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">🌐 Live Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a> •
+  <a href="https://asma-guenaien-portfolio.vercel.app/">🌐 Live Portfolio</a> •
+  <a href="https://www.linkedin.com/in/asma-guenaien-b8418321b/">LinkedIn</a> •
+  <a href="https://github.com/asmaguenaien">GitHub</a> •
   <a href="public/media/asma-guenaien-cv.pdf">Resume</a>
 </p>
 
@@ -59,7 +59,7 @@ A web application focused on IT maintenance management and operational workflows
 
 A movie discovery and recommendation-oriented web project designed to improve the content exploration experience.
 
-For project details, implementation highlights, and additional work, visit my [portfolio website](YOUR_PORTFOLIO_URL).
+For project details, implementation highlights, and additional work, visit my [portfolio website](https://asma-guenaien-portfolio.vercel.app/).
 
 ## Research Interests
 
@@ -94,9 +94,9 @@ I am interested in opportunities involving software engineering, web development
 Whether it is a professional opportunity, research collaboration, or interesting technical challenge, feel free to connect.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL">Email Me</a>
+  <a href="https://www.linkedin.com/in/asma-guenaien-b8418321b/">LinkedIn</a> •
+  <a href="https://github.com/asmaguenaien">GitHub</a> •
+  <a href="guenaien512@gmail.com">Email Me</a>
 </p>
 
 ---
