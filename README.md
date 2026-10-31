@@ -1,33 +1,106 @@
-# Asma Guenaien — International Software Developer Portfolio
+# Asma Guenaien | Software Developer Portfolio
 
-A personal portfolio built with React, TypeScript, TanStack Start, Vite, and Tailwind CSS. It presents selected web projects, research on health-data privacy, professional internships, education, technical skills, community involvement, and contact links in English and French.
+<p align="center">
+  <img src="public/media/asma-guenaien.jpg" width="120" alt="Asma Guenaien" />
+</p>
 
-## Run locally
+<h3 align="center">
+  Software Developer | Computer Science Researcher | Cybersecurity Enthusiast
+</h3>
 
-Requirements: Node.js 22.12 or newer.
+<p align="center">
+  Building meaningful digital solutions through software engineering, modern web technologies, and cybersecurity research.
+</p>
 
-```bash
-npm install
-npm run dev
-```
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">🌐 Live Portfolio</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_GITHUB_URL">GitHub</a> •
+  <a href="public/media/asma-guenaien-cv.pdf">Resume</a>
+</p>
 
-Open the local URL printed by the development server.
+---
 
-## Build for production
+## About Me
 
-```bash
-npm run build
-npm start
-```
+I am **Asma Guenaien**, a Computer Science graduate with a research-oriented background and a strong interest in software engineering, web development, and cybersecurity.
 
-The production server uses the generated `.output` directory. Choose a hosting provider that supports the generated Node.js server, or adapt the deployment configuration to your preferred hosting platform.
+I enjoy designing and developing practical applications, exploring emerging technologies, and solving technical challenges through structured and scalable solutions.
 
-## Update your information
+My academic and professional journey combines software development experience, cybersecurity training, research activities, and hands-on projects.
 
-- Contact details, projects, experience, education, and skills: `src/lib/portfolio-data.ts`
-- Page content and bilingual interface: `src/components/portfolio.tsx`
-- SEO metadata: `src/routes/index.tsx` and `src/routes/__root.tsx`
-- Styling and responsive layout: `src/styles.css`
-- Portrait, latest CV, and project preview images: `public/media/`
+**Areas of Interest**
+- Software Engineering & Full-Stack Development
+- Web Application Architecture
+- Cybersecurity & Data Protection
+- Artificial Intelligence
+- Research & Emerging Technologies
 
-Before publishing, verify that every project demo and repository URL is public and working. The research project is described from the current CV; add a public repository or demo link if one becomes available. Keep all dates and claims consistent with your latest CV.
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Frontend | React, TypeScript, JavaScript, HTML5, CSS3 |
+| Backend | Java, Spring Boot, Node.js |
+| Frameworks & Tools | TanStack Start, Vite, Tailwind CSS |
+| Databases | SQL, MongoDB |
+| Cybersecurity | Network Security, Incident Response, Ethical Hacking |
+| Development Tools | Git, GitHub, VS Code |
+
+## Featured Projects
+
+Explore selected projects showcasing my development skills, technical interests, and problem-solving approach.
+
+**IT Maintenance Management**
+
+A web application focused on IT maintenance management and operational workflows.
+
+**CineMatch**
+
+A movie discovery and recommendation-oriented web project designed to improve the content exploration experience.
+
+For project details, implementation highlights, and additional work, visit my [portfolio website](YOUR_PORTFOLIO_URL).
+
+## Research Interests
+
+My research interests focus on the intersection of cybersecurity, intelligent systems, and data protection.
+
+Current research direction:
+
+**Cybersecurity and Data Protection in Connected Medical Devices**
+
+Exploring security challenges in the Internet of Medical Things (IoMT), with particular interest in:
+- Blockchain-based data integrity.
+- AI-assisted cyberthreat detection.
+- Protection of sensitive healthcare information.
+- Security and reliability of connected medical systems.
+
+## Education & Professional Development
+
+- **Master's Research Studies in Computer Science** — Faculty of Sciences of Bizerte.
+- **Cybersecurity Training** — SOC Analyst Cybersecurity Bootcamp, FTD Scholarship, TED University (2024).
+- Additional learning in networking, security operations, ethical hacking, and software development.
+
+## Professional Experience
+
+My professional experience includes internships and practical projects that have helped me develop technical, analytical, and problem-solving skills.
+
+For detailed experience, responsibilities, and project contributions, please refer to my [CV](public/media/asma-guenaien-cv.pdf) and portfolio.
+
+## Let's Connect
+
+I am interested in opportunities involving software engineering, web development, cybersecurity, and innovative technology projects.
+
+Whether it is a professional opportunity, research collaboration, or interesting technical challenge, feel free to connect.
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_GITHUB_URL">GitHub</a> •
+  <a href="mailto:YOUR_EMAIL">Email Me</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed and developed by Asma Guenaien.</sub>
+</p>
